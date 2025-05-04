@@ -1,4 +1,4 @@
-# BayesianOpt (A simple program)
+# BayesianOpt (A simple program, for personal study only)
 A Julia program for Bayesian optimization and active learning. The entire calculation is based on Gaussian Processes.jl and DecisionTree.jl.
 The program can perform Gaussian process-based Bayesian optimization, as well as active learning algorithms based on Gaussian processes (GP) or random forests (RF). It is even possible to mix GP and RF to perform active learning for any parameter dimension. This calculation can also define the prior for GP noise.
 
